@@ -1,5 +1,6 @@
 # Preview of website
 
+## Backend data is connected and stored in MongoDB 
 
 <img width="1440" alt="Screenshot 2021-09-25 at 9 42 29 PM" src="https://user-images.githubusercontent.com/43720695/134778379-6c37d04c-cc38-4e4a-a506-98844901a707.png">
 <img width="1440" alt="Screenshot 2021-09-25 at 9 42 24 PM" src="https://user-images.githubusercontent.com/43720695/134778384-8270042e-fdbe-49ba-8f05-f4ea54cf83da.png">
